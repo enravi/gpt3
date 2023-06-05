@@ -1,6 +1,6 @@
 # GPT3: Figma to Node.js Front-End Application
 
-Welcome to the GPT3 project repository! This front-end portfolio project showcases the transformation of Figma designs into a modern, responsive, and beautifully-designed Node.js application. It focuses on bridging the gap between design and development, demonstrating the power of Node.js in creating exceptional user interfaces.
+Welcome to the GPT3 project repository! This front-end project showcases the transformation of Figma designs into a modern, responsive, and beautifully-designed Node.js application. It focuses on bridging the gap between design and development, demonstrating the power of Node.js in creating exceptional user interfaces.
 
 ## Features
 
